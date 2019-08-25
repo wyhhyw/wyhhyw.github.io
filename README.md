@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 LOFFER是个可以帮助你get off from LOFTER的软件（我知道这个pun很烂）。
 
 这是一个可以通过Fork直接发布在GitHub的Jekyll博客，你不需要编写代码或使用命令行即可获得一个部署在GitHub的博客。
@@ -138,42 +137,3 @@ LOFFER支持Disqus评论，虽然Disqus很丑，但是它是免费的，设置�
 最后，回到[LOFFER](https://github.com/FromEndWorld/LOFFER)，给我点一个☆吧！
 
 ![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/givemefive.png)
-=======
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/wyhhyw/wyhhyw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wyhhyw/wyhhyw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
->>>>>>> 6e37dbc7f49a9698e4285df4ced3b3b48b5ca67e

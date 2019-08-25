@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #
 # 这个文档包含了本博客的设定信息，你可以编辑它来个性化自己的博客，
 #
@@ -110,6 +109,3 @@ exclude:
   - CNAME
 
 excerpt_separator: ---
-=======
-theme: jekyll-theme-slate
->>>>>>> 6e37dbc7f49a9698e4285df4ced3b3b48b5ca67e
