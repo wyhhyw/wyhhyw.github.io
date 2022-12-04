@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>None</loc>
-     <lastmod>2020-02-11</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>http://bookshell.top/</loc>
+         <lastmod>2022-12-04</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2020-02-11</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>http://bookshell.top/about/</loc>
+         <lastmod>2022-12-04</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2020-02-11</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>http://bookshell.top/modeling/0.roadmap/</loc>
+         <lastmod>2022-12-04</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
-     <lastmod>2020-02-11</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>http://bookshell.top/thinktwice/0.thinkdaily/</loc>
+         <lastmod>2022-12-04</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
